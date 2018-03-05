@@ -17,6 +17,6 @@ userfull: "John Doe"
 username: john
 sx: male
 
-remote1: vm1
+remote1: ansible
 port1: 22
-port2: 80
+port2: 22
